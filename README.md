@@ -15,7 +15,7 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Nome | Cidade | Áreas de Interesse| Redes sociais
 |--|--|--|--|
 | Laryssa Magalhães | BH| Front-end, React, CSS, Javascript|  [linkedin](https://www.linkedin.com/in/laryssa-magalhaes/), [github](https://github.com/laryssamagalhaes/), [medium](https://medium.com/@larymagal)
-
+| Diel Duarte | BH | Front-end, Javascript, Node, State Machines, React, React Native, Elm | [linkedin](https://www.linkedin.com/in/dielduarte/), [github](https://github.com/dielduarte), [blog](https://dielduarte.github.io/blog/)
 
 
 
