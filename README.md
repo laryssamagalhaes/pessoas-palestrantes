@@ -18,6 +18,7 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Diel Duarte | BH | Front-end, Javascript, Node, State Machines, React, React Native, Elm | [linkedin](https://www.linkedin.com/in/dielduarte/), [github](https://github.com/dielduarte), [blog](https://dielduarte.github.io/blog/)
 | Ana Coimbra | BH | Android, Firebase, App Mobile, UX Research, Design de Interação, Trabalho Remoto | [linkedin](https://www.linkedin.com/in/anacoimbrag/), [github](https://github.com/anacoimbrag), [twitter](https://twitter.com/anacoimbrag)
 | Gabrielly Gomes | BH | Design de Código, Testes, Design de API, Java | [linkedin](https://www.linkedin.com/in/gabrielly-gomes-362770b0/), [github](https://github.com/GabriellyGomes), [instagram](https://www.instagram.com/gabyagomes/)
+| Italo Lelis | BH | Vue, Angular, CSS, Node, Arduino | [linkedin](https://www.linkedin.com/in/italoleliscarvalho/), [github](https://github.com/italohdc), [blog](https://italolelis.com/)
 
 
 
