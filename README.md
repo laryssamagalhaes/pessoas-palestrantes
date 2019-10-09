@@ -16,6 +16,7 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 |--|--|--|--|
 | Laryssa Magalhães | BH| Front-end, React, CSS, Javascript|  [linkedin](https://www.linkedin.com/in/laryssa-magalhaes/), [github](https://github.com/laryssamagalhaes/), [medium](https://medium.com/@larymagal)
 | Diel Duarte | BH | Front-end, Javascript, Node, State Machines, React, React Native, Elm | [linkedin](https://www.linkedin.com/in/dielduarte/), [github](https://github.com/dielduarte), [blog](https://dielduarte.github.io/blog/)
+| Diogo Cabral | BH | Android, Kotlin, TDD, Pirâmide de testes, Design de código | [linkedin](https://www.linkedin.com/in/drcabral/), [github](https://github.com/drcabral) | [medium](https://medium.com/@drkbral)
 
 
 
