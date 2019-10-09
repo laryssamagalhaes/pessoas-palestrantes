@@ -1,9 +1,9 @@
 
 # Pessoas palestrantes
 
-Bem vind@ :) 
+Bem vind@ :)
 
-Esse repositório foi criado no intuito de ajudar eventos a encontrarem pessoas para palestrarem. 
+Esse repositório foi criado no intuito de ajudar eventos a encontrarem pessoas para palestrarem.
 
 Você que gosta ou tem vontade de palestrar, abra um PR seguindo as orientações abaixo e venha compartilhar conhecimento com a comunidade :heart: :punch:
 
@@ -23,6 +23,7 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Wallysson Nunes | BH | Front-end, React, JS, CSS, Performance, Node, Testes | [linkedin](https://www.linkedin.com/in/wallynm/), [github](https://github.com/wallynm), [blog](https://medium.com/@wallynm)
 | Felipe Arimatéia | BH | Android, Firebase, App Mobile, Acessibilidade | [linkedin](https://www.linkedin.com/in/felipearimateia), [github](https://github.com/felipearimateia), [twitter](https://twitter.com/twiterdoari)
 | Rodrigo Brito | BH | Eng. Software, Criptomoedas, Automação, Javascript, Go  | [linkedin](https://www.linkedin.com/in/rodrigo-brito-ab46a260/), [github](https://github.com/rodrigo-brito), [twitter](https://twitter.com/RodrigoFBrito)
+| Wharley Ornelas | Formiga - MG | Front-end, Javascript, Node, Next.js, React, React Native, Vue.js, Nuxt.js, Graphql Apollo Client, Graphql Apollo Server | [linkedin](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/), [github](https://github.com/wharley), [blog](https://wharley.github.io)
 
 
 
