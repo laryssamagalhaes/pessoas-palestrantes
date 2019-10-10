@@ -22,3 +22,7 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Italo Lelis | BH | Vue, Angular, CSS, Node, Arduino | [linkedin](https://www.linkedin.com/in/italoleliscarvalho/), [github](https://github.com/italohdc), [blog](https://italolelis.com/)
 | Wallysson Nunes | BH | Front-end, React, JS, CSS, Performance, Node, Testes | [linkedin](https://www.linkedin.com/in/wallynm/), [github](https://github.com/wallynm), [blog](https://medium.com/@wallynm)
 | Felipe Arimatéia | BH | Android, Firebase, App Mobile, Acessibilidade | [linkedin](https://www.linkedin.com/in/felipearimateia), [github](https://github.com/felipearimateia), [twitter](https://twitter.com/twiterdoari)
+| Rodrigo Brito | BH | Eng. Software, Criptomoedas, Automação, Javascript, Go  | [linkedin](https://www.linkedin.com/in/rodrigo-brito-ab46a260/), [github](https://github.com/rodrigo-brito), [twitter](https://twitter.com/RodrigoFBrito)
+
+
+
