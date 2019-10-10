@@ -21,5 +21,4 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Gabrielly Gomes | BH | Design de Código, Testes, Design de API, Java | [linkedin](https://www.linkedin.com/in/gabrielly-gomes-362770b0/), [github](https://github.com/GabriellyGomes), [instagram](https://www.instagram.com/gabyagomes/)
 | Italo Lelis | BH | Vue, Angular, CSS, Node, Arduino | [linkedin](https://www.linkedin.com/in/italoleliscarvalho/), [github](https://github.com/italohdc), [blog](https://italolelis.com/)
 | Wallysson Nunes | BH | Front-end, React, JS, CSS, Performance, Node, Testes | [linkedin](https://www.linkedin.com/in/wallynm/), [github](https://github.com/wallynm), [blog](https://medium.com/@wallynm)
-
-
+| Felipe Arimatéia | BH | Android, Firebase, App Mobile, Acessibilidade | [linkedin](https://www.linkedin.com/in/felipearimateia), [github](https://github.com/felipearimateia), [twitter](https://twitter.com/twiterdoari)
