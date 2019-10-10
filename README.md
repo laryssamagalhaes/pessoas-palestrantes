@@ -25,6 +25,8 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Rodrigo Brito | BH | Eng. Software, Criptomoedas, Automação, Javascript, Go  | [linkedin](https://www.linkedin.com/in/rodrigo-brito-ab46a260/), [github](https://github.com/rodrigo-brito), [twitter](https://twitter.com/RodrigoFBrito)
 | Wharley Ornelas | Formiga - MG | Front-end, Javascript, Node, Next.js, React, React Native, Vue.js, Nuxt.js, Graphql Apollo Client, Graphql Apollo Server | [linkedin](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/), [github](https://github.com/wharley), [blog](https://wharley.github.io)
 | Gabriel Prates | BH | Front-end, React, JavaScript, Apollo Client, Node.js, Testes, SSR, webpack | [linkedin](https://www.linkedin.com/in/gabrielprates/), [github](https://github.com/gabsprates/), [blog](https://gabrielprates.com/)
+| Mateus Andrade | SP | Front-end, React, React-Native, JavaScript, Angular, Node, Testes | [linkedin](https://www.linkedin.com/in/mateus-andrade-costa-neri/), [github](https://github.com/MateusAndrade/), [twitter](https://twitter.com/Mateus_Andrad_)
+
 
 
 
