@@ -38,4 +38,5 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Rafael Câmara | BH | React, React Native, JavaScript, Svelte, UI/UX, Startups | [Linkedin](http://linkedin.com/in/rafaelcamaram/), [Github](http://github.com/rafaelcamaram)
 | Kássio Luz | BH | Android, Kotlin, Flutter, React-Native | [Github](https://github.com/KassioVieira), [linkedin](https://linkedin.com/in/kassio-vieira-luz/)
 | Artur Bani | BH | Front-end, React, React Native, Acessibilidade, Conteúdos que ajudem iniciantes | [linkedin](https://www.linkedin.com/in/arturbani/), [Github](https://github.com/arturbani), [Twitter](https://twitter.com/artrbni)
+| Lucas Coelho | BH | Robótica, Veículos Autônomos, Automação, ROS, C++, Python, Scrum | [linkedin](https://www.linkedin.com/in/lucascoelhof/), [github](https://github.com/lucascoelhof), [instagram](https://www.instagram.com/lucascoelhof/)
 | João Benthin | BH | JavaScript, HTML, CSS, React Native, React, Node.js, Git, Deploy, Desenvolvimento de aplicativos | [LinkedIn](https://www.linkedin.com/in/joaobenthin), [GitHub](https://github.com/joaobenthin)
