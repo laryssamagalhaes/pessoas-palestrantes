@@ -35,4 +35,4 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Wladimir Neto | Uberlândia - MG | Chatbots, NLP | [linkedin](https://www.linkedin.com/in/wladimirteixeiraneto/), [github](https://github.com/wladneto)
 | Gabriel Sobrinho | BH | Front-end, Javascript, React, Vue, React Native, Back-end, Ruby, Rails, Database, Postgres, Redis | [linkedin](https://www.linkedin.com/in/gabrielsobrinho/), [github](https://github.com/sobrinho), [instagram](https://www.instagram.com/gcsobrinho/), [twitter](https://twitter.com/sobrinho)
 | Jansen Felipe | BH | Full-stack, Web/Mobile, DevOps, PHP, Javascript, Business, Startups, Comunidade | [SlideShare](https://pt.slideshare.net/jansenfelipe/presentations), [Github](https://github.com/jansenfelipe), [Twitter](https://twitter.com/jansenfelipe), [Blog](https://jansenfelipe.com.br)
-
+| João Benthin | BH | JavaScript, HTML, CSS, React Native, React, Node.js, Git, Deploy, Desenvolvimento de aplicativos | [LinkedIn](https://www.linkedin.com/in/joaobenthin), [GitHub](https://github.com/joaobenthin) |
