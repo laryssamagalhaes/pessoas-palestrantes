@@ -37,3 +37,5 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Jansen Felipe | BH | Full-stack, Web/Mobile, DevOps, PHP, Javascript, Business, Startups, Comunidade | [SlideShare](https://pt.slideshare.net/jansenfelipe/presentations), [Github](https://github.com/jansenfelipe), [Twitter](https://twitter.com/jansenfelipe), [Blog](https://jansenfelipe.com.br)
 | Kássio Luz | BH | Android, Kotlin, Flutter, React-Native | [Github](https://github.com/KassioVieira), [linkedin](https://linkedin.com/in/kassio-vieira-luz/)
 | Artur Bani | BH | Front-end, React, React Native, Acessibilidade, Conteúdos que ajudem iniciantes | [linkedin](https://www.linkedin.com/in/arturbani/), [Github](https://github.com/arturbani), [Twitter](https://twitter.com/artrbni)
+| Lucas Coelho | BH | Robótica, Veículos Autônomos, Automação, ROS, C++, Python, Scrum | [linkedin](https://www.linkedin.com/in/lucascoelhof/), [github](https://github.com/lucascoelhof), [instagram](https://www.instagram.com/lucascoelhof/)
+
