@@ -27,7 +27,4 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Gabriel Prates | BH | Front-end, React, JavaScript, Apollo Client, Node.js, Testes, SSR, webpack | [linkedin](https://www.linkedin.com/in/gabrielprates/), [github](https://github.com/gabsprates/), [blog](https://gabrielprates.com/)
 | Mateus Andrade | SP | Front-end, React, React-Native, JavaScript, Angular, Node, Testes | [linkedin](https://www.linkedin.com/in/mateus-andrade-costa-neri/), [github](https://github.com/MateusAndrade/), [twitter](https://twitter.com/Mateus_Andrad_)
 | João Maia | ES | Cloud Computing, DevOps, SRE, Data Engineering, Go, Python | [linkedin](https://www.linkedin.com/in/jvrmaia/), [github](https://github.com/jvrmaia/), [twitter](https://twitter.com/jvrmaia)
-
-
-
-
+| Luiz Baldi | BH | Front-end, JavaScript, React, React Native, Testes | [site](http://luizbaldi.com/)
