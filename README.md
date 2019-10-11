@@ -31,3 +31,5 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | João Maia | ES | Cloud Computing, DevOps, SRE, Data Engineering, Go, Python | [linkedin](https://www.linkedin.com/in/jvrmaia/), [github](https://github.com/jvrmaia/), [twitter](https://twitter.com/jvrmaia)
 | Luiz Baldi | BH | Front-end, JavaScript, React, React Native, Testes | [site](http://luizbaldi.com/)
 | Diego Borges | BH | TDD e Testes, Frameworks, PHP, React, JS, TypeScript, NodeJS | [linkedin](https://www.linkedin.com/in/eudiegoborgs/), [github](https://github.com/eudiegoborgs/), [twitter](https://twitter.com/eudiegoborgs_)
+| Wladimir Neto | Uberlândia - MG | Chatbots, NLP | [linkedin](https://www.linkedin.com/in/wladimirteixeiraneto/), [github](https://github.com/wladneto)
+
