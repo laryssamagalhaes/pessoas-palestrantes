@@ -41,3 +41,5 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Artur Bani | BH | Front-end, React, React Native, Acessibilidade, Conteúdos que ajudem iniciantes | [linkedin](https://www.linkedin.com/in/arturbani/), [Github](https://github.com/arturbani), [Twitter](https://twitter.com/artrbni)
 | Lucas Coelho | BH | Robótica, Veículos Autônomos, Automação, ROS, C++, Python, Scrum | [linkedin](https://www.linkedin.com/in/lucascoelhof/), [github](https://github.com/lucascoelhof), [instagram](https://www.instagram.com/lucascoelhof/)
 | João Benthin | BH | JavaScript, HTML, CSS, React Native, React, Node.js, Git, Deploy, Desenvolvimento de aplicativos | [LinkedIn](https://www.linkedin.com/in/joaobenthin), [GitHub](https://github.com/joaobenthin)
+| Guilherme Hübner | BH | Engenharia de software, Golang, DevOps, Vim, FrontEnd, React, Typescript, GraphQL | [linkedin](https://www.linkedin.com/in/guilhermehubner91/), [github](https://github.com/guilhermehubner), [site](https://guilhermehubner.com)
+
