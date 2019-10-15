@@ -10,7 +10,7 @@ Você que gosta ou tem vontade de palestrar, abra um PR seguindo as orientaçõe
 
 ### Abrindo um PR
 
-Verifique se sua cidade já existe na pasta `./speakers`, se já existir basta criar um arquivo `.json` com seu nome-sobrenome.json seguindo o seguinte padrão:
+Verifique se sua cidade já existe na pasta `./speakers`, se já existir basta criar um arquivo `.json` com seu nome-sobrenome.json seguindo o seguinte padrão:
 
 ```js
 {
@@ -29,7 +29,7 @@ Verifique se sua cidade já existe na pasta `./speakers`, se já existir basta 
 }
 ```
 
-Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, ex: `belo-horizonte-MG`
+Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, ex: `belo-horizonte-MG`
 
     
 
@@ -71,9 +71,9 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 
 ## Juatuba - MG 
 
-| Nome          | Áreas de Interesse                                                                                                | Redes sociais                                                                                                                                                    |
-| ------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Kelvin Chaves |  Front-end, Vue.js, NativeScript, JavaScript, Angular, Node.js, Testes, PHP, Docker, Back-end, Mobile, Comunidade |  [linkedin](http://linkedin.com/in/yan-christoffer-4b401a13/), [github](https://www.github.com/yanccprogramador), [twitter](https://twitter.com/yan_christoffer) |,
+| Nome            | Áreas de Interesse                                                                                                | Redes sociais                                                                                                                                                    |
+| --------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Yan Christoffer |  Front-end, Vue.js, NativeScript, JavaScript, Angular, Node.js, Testes, PHP, Docker, Back-end, Mobile, Comunidade |  [linkedin](http://linkedin.com/in/yan-christoffer-4b401a13/), [github](https://www.github.com/yanccprogramador), [twitter](https://twitter.com/yan_christoffer) |,
 
 ## São Paulo - SP 
 
