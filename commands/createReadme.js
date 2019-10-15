@@ -23,7 +23,12 @@ const parseData = (prevObject, city) => {
 
 const addSpaceLeft = (array) => array.map((it) => ` ${it}`)
 
-const parseTitle = (title) => titleize(title.split('-').join(' '))
+const parseTitle = (title) => 
+    title
+        .split('-')
+        .map((it, index, chunks) => index + 1 === chunks.length ? ` - ${it.toUpperCase()}` : titleize(it))
+        .join(' ')
+
 
 const getSpeakerColumn = (speakers) => _.chain(speakers)
     .reduce((prev, speaker) => {
