@@ -9,7 +9,7 @@ Você que gosta ou tem vontade de palestrar, abra um PR seguindo as orientaçõe
 
 ### Abrindo um PR
 
-Verifique se sua cidade já existe na pasta `./speakers`, se já existir basta criar um arquivo `.json` com seu nome-sobrenome.json seguindo o seguinte padrão:
+Verifique se sua cidade já existe na pasta `./speakers`, se já existir basta criar um arquivo `.json` com seu nome-sobrenome.json seguindo o seguinte padrão:
 
 ```js
 {
@@ -28,4 +28,4 @@ Verifique se sua cidade já existe na pasta `./speakers`, se já existir basta 
 }
 ```
 
-Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, ex: `belo-horizonte-MG`
+Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, ex: `belo-horizonte-MG`
