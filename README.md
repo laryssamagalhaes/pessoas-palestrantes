@@ -33,7 +33,7 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 
     
 
-## Belo Horizonte  - MG 
+## Belo Horizonte - MG 
 
 | Nome              | Áreas de Interesse                                                                                                                                                                                       | Redes sociais                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,38 +63,38 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 | Rubio Torres      |  Infraestrutura de T.I e telecomunicação, Python, Git, Automação, Bioinformática                                                                                                                         |  [linkedin](http://linkedin.com/in/rubio-torres-castro-viana-75b9a267/), [github](https://github.com/rubiotorres), [instagram](https://www.instagram.com/ru_torres/)                                                                                                                                                                                                                                                                                           |
 | Wallyson Nunes    |  Front-end, React, Javascript, CSS, Performance, Node, Testes                                                                                                                                            |  [linkedin](https://www.linkedin.com/in/wallynm/), [github](https://github.com/wallynm), [blog](https://medium.com/@wallynm)                                                                                                                                                                                                                                                                                                                                   |,
 
-## Formiga  - MG 
+## Formiga - MG 
 
 | Nome            | Áreas de Interesse                                                                                                             | Redes sociais                                                                                                                                       |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Wharley Ornelas |  Front-end, Javascript, Node.js, Next.js, React, React Native, Vue.js, Nuxt.js, Graphql, Apollo Client, Graphql, Apollo Server |  [linkedin](http://linkedin.com/in/wharley-ornelas-da-rocha-65420932/), [github](https://www.github.com/wharley), [blog](https://wharley.github.io) |,
 
-## Juatuba  - MG 
+## Juatuba - MG 
 
 | Nome          | Áreas de Interesse                                                                                                | Redes sociais                                                                                                                                                    |
 | ------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Kelvin Chaves |  Front-end, Vue.js, NativeScript, JavaScript, Angular, Node.js, Testes, PHP, Docker, Back-end, Mobile, Comunidade |  [linkedin](http://linkedin.com/in/yan-christoffer-4b401a13/), [github](https://www.github.com/yanccprogramador), [twitter](https://twitter.com/yan_christoffer) |,
 
-## São Paulo  - SP 
+## São Paulo - SP 
 
 | Nome           | Áreas de Interesse                                                    | Redes sociais                                                                                                                                                              |
 | -------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Manoel Freitas |  JavaScript, HTML, CSS, Vue, React, Node.js, Git, AWS                 |  [linkedin](http://linkedin.com/in/manoeljosefneto/), [instagram](https://www.instagram.com/manoel-freitas)                                                                |
 | Mateus Andrade |  Front-end, React, React-Native, JavaScript, Angular, Node.js, Testes |  [linkedin](http://linkedin.com/in/mateus-andrade-costa-neri/), [instagram](https://www.instagram.com/manoel-MateusAndrade), [twitter](https://twitter.com/Mateus_Andrad_) |,
 
-## Uberlândia  - MG 
+## Uberlândia - MG 
 
 | Nome          | Áreas de Interesse | Redes sociais                                                                                        |
 | ------------- | ------------------ | ---------------------------------------------------------------------------------------------------- |
 | Wladimir Neto |  Chatbots, NLP     |  [linkedin](http://linkedin.com/in/wladimirteixeiraneto/), [github](https://www.github.com/wladneto) |,
 
-## Vitória  - ES 
+## Vitória - ES 
 
 | Nome      | Áreas de Interesse                                         | Redes sociais                                                                                                                  |
 | --------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | João Maia |  Cloud Computin, DevOps, SRE, Data Engineering, Go, Python |  [linkedin](http://linkedin.com/in/jvrmaia/), [github](https://www.github.com/jvrmaia), [twitter](https://twitter.com/jvrmaia) |,
 
-## Vitória Da Conquista  - BA 
+## Vitória Da Conquista - BA 
 
 | Nome           | Áreas de Interesse                                            | Redes sociais                                                                                                                                   |
 | -------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
