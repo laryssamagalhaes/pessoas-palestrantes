@@ -1,0 +1,25 @@
+{
+  "name": "pessoas-palestrantes",
+  "version": "1.0.0",
+  "description": "Bem vind@ :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laryssamagalhaes/pessoas-palestrantes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laryssamagalhaes/pessoas-palestrantes/issues"
+  },
+  "homepage": "https://github.com/laryssamagalhaes/pessoas-palestrantes#readme",
+  "dependencies": {
+    "humanize-string": "^2.1.0",
+    "lodash": "^4.17.15",
+    "markdown-table": "^1.1.3",
+    "titleize": "^2.1.0"
+  }
+}
