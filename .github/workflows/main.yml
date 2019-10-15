@@ -28,4 +28,6 @@ jobs:
     - name: saving new readme
       run: git commit -m 'feat(Readme) add new speaker :)'
     - name: push changes
-      run: git push origin master  
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
