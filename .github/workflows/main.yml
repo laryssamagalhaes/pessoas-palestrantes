@@ -1,0 +1,33 @@
+name: CI
+
+on:
+   push:
+    branches:
+    - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - name: installing dependencies
+      run: npm install
+    - name: generate Readme
+      run: node commands/createReadme.js
+    - name: set user email
+      run: git config user.email "laryssamagal@gmail.com"
+    - name: set user name
+      run: git config user.name "laryssamagalhaes"
+    - name: add files changes
+      run: git add .
+    - name: saving new readme
+      run: git commit -m 'feat(Readme) add new speaker :)'
+    - name: push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
