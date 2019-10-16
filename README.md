@@ -76,6 +76,12 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 | --------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Yan Christoffer |  Front-end, Vue.js, NativeScript, JavaScript, Angular, Node.js, Testes, PHP, Docker, Back-end, Mobile, Comunidade |  [linkedin](http://linkedin.com/in/yan-christoffer-4b401a13/), [github](https://www.github.com/yanccprogramador), [twitter](https://twitter.com/yan_christoffer) |,
 
+## Recife - PE 
+
+| Nome         | Áreas de Interesse                                                                                                   | Redes sociais                                                                                                                                                                               |
+| ------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Erick Simões |  Virtual Reality, Augmented Reality, Arduino, Desenvolvimento de Jogos, Unity, Empreendedorismo, Internet das Coisas |  [linkedin](https://www.linkedin.com/in/ericksimoes/), [github](https://github.com/ErickSimoes/), [medium](https://medium.com/@ErickSimoes), [twitter](https://twitter.com/AloErickSimoes/) |,
+
 ## São Paulo - SP 
 
 | Nome           | Áreas de Interesse                                                    | Redes sociais                                                                                                                                                              |
