@@ -78,9 +78,10 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 
 ## Recife - PE 
 
-| Nome         | Áreas de Interesse                                                                                                   | Redes sociais                                                                                                                                                                               |
-| ------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Erick Simões |  Virtual Reality, Augmented Reality, Arduino, Desenvolvimento de Jogos, Unity, Empreendedorismo, Internet das Coisas |  [linkedin](https://www.linkedin.com/in/ericksimoes/), [github](https://github.com/ErickSimoes/), [medium](https://medium.com/@ErickSimoes), [twitter](https://twitter.com/AloErickSimoes/) |,
+| Nome              | Áreas de Interesse                                                                                                                                                | Redes sociais                                                                                                                                                                               |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Erick Simões      |  Virtual Reality, Augmented Reality, Arduino, Desenvolvimento de Jogos, Unity, Empreendedorismo, Internet das Coisas                                              |  [linkedin](https://www.linkedin.com/in/ericksimoes/), [github](https://github.com/ErickSimoes/), [medium](https://medium.com/@ErickSimoes), [twitter](https://twitter.com/AloErickSimoes/) |
+| Pedro Jorge Silva |  Robôs Autônomos, Reinforcement Learning aplicado à robótica, Automação, Python, C++, Metodologias Ágeis, Git e GitHub, Arduino, Prototipação com LEGO Mindstorms |  [linkedin](https://www.linkedin.com/in/pedro-jorge-lima-da-silva-758335170/), [GitHub](https://pedrojlsilva.github.io/AboutMe/), [twitter](https://twitter.com/PedroJorgeS1)               |,
 
 ## São Paulo - SP 
 
