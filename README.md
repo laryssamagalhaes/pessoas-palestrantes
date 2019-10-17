@@ -70,6 +70,12 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Wharley Ornelas |  Front-end, Javascript, Node.js, Next.js, React, React Native, Vue.js, Nuxt.js, Graphql, Apollo Client, Graphql, Apollo Server |  [linkedin](http://linkedin.com/in/wharley-ornelas-da-rocha-65420932/), [github](https://www.github.com/wharley), [blog](https://wharley.github.io) |,
 
+## Fortaleza - CE 
+
+| Nome                | Áreas de Interesse                                                                                                               | Redes sociais                                                                                                     |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Rondinelli Mesquita |  Front-end, Web, Javascript, CSS3, Node.js, Vue.js, Carreira Profissional de T.I., Java, Go, Docker, Testes, Automação de Testes |  [linkedin](https://www.linkedin.com/in/rondinelli-mesquita-60b18a31), [github](https://github.com/rondymesquita) |,
+
 ## Juatuba - MG 
 
 | Nome            | Áreas de Interesse                                                                                                | Redes sociais                                                                                                                                                    |
