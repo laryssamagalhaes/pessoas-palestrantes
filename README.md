@@ -84,6 +84,12 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 | --------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Yan Christoffer |  Front-end, Vue.js, NativeScript, JavaScript, Angular, Node.js, Testes, PHP, Docker, Back-end, Mobile, Comunidade |  [linkedin](http://linkedin.com/in/yan-christoffer-4b401a13/), [github](https://www.github.com/yanccprogramador), [twitter](https://twitter.com/yan_christoffer) |,
 
+## Maringá - PR 
+
+| Nome                         | Áreas de Interesse                                                    | Redes sociais                                                                                                                                 |
+| ---------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fernando Fabricio dos Santos |  PHP, Laravel, AWS, RabbitMQ, Kafka, Node.js, Javascript, Kanban, IoT |  [linkedin](https://www.linkedin.com/in/ferfabricio/), [github](https://github.com/ferfabricio/), [twitter](https://twitter.com/@ferfabricio) |,
+
 ## Recife - PE 
 
 | Nome              | Áreas de Interesse                                                                                                                                                | Redes sociais                                                                                                                                                                                                      |
