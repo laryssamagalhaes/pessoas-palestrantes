@@ -92,6 +92,12 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 | Pedro Jorge Silva |  Robôs Autônomos, Reinforcement Learning aplicado à robótica, Automação, Python, C++, Metodologias Ágeis, Git e GitHub, Arduino, Prototipação com LEGO Mindstorms |  [linkedin](https://www.linkedin.com/in/pedro-jorge-lima-da-silva-758335170/), [GitHub](https://pedrojlsilva.github.io/AboutMe/), [twitter](https://twitter.com/PedroJorgeS1)                                      |
 | Thiago Augusto    |  Arduino, Back-End, Front-End, Javascript, React, Empreendedorismo, Inovação, Voluntariado                                                                        |  [linkedin](https://www.linkedin.com/in/thiagoaugustosm/), [github](https://github.com/ThiagoAugustoSM/), [twitter](https://twitter.com/thiagoaugustosm/), [instagram](https://www.instagram.com/thiagoaugustosm/) |,
 
+## Rio De Janeiro - RJ 
+
+| Nome       | Áreas de Interesse                                               | Redes sociais                                                                                                                              |
+| ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Igor Souza |  Cloud Computing, DevOps, SRE, Terraform, Automacao, Remote Work |  [linkedin](http://linkedin.com/in/igordcsouza/), [github](https://www.github.com/igordcsouza), [twitter](https://twitter.com/igordcsouza) |,
+
 ## São Paulo - SP 
 
 | Nome           | Áreas de Interesse                                                    | Redes sociais                                                                                                                                                              |
