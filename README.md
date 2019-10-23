@@ -106,10 +106,11 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 
 ## São Paulo - SP 
 
-| Nome           | Áreas de Interesse                                                    | Redes sociais                                                                                                                                                              |
-| -------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Manoel Freitas |  JavaScript, HTML, CSS, Vue, React, Node.js, Git, AWS                 |  [linkedin](http://linkedin.com/in/manoeljosefneto/), [instagram](https://www.instagram.com/manoel-freitas)                                                                |
-| Mateus Andrade |  Front-end, React, React-Native, JavaScript, Angular, Node.js, Testes |  [linkedin](http://linkedin.com/in/mateus-andrade-costa-neri/), [instagram](https://www.instagram.com/manoel-MateusAndrade), [twitter](https://twitter.com/Mateus_Andrad_) |,
+| Nome            | Áreas de Interesse                                                              | Redes sociais                                                                                                                                                                                        |
+| --------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Manoel Freitas  |  JavaScript, HTML, CSS, Vue, React, Node.js, Git, AWS                           |  [linkedin](http://linkedin.com/in/manoeljosefneto/), [instagram](https://www.instagram.com/manoel-freitas)                                                                                          |
+| Mateus Andrade  |  Front-end, React, React-Native, JavaScript, Angular, Node.js, Testes           |  [linkedin](http://linkedin.com/in/mateus-andrade-costa-neri/), [instagram](https://www.instagram.com/manoel-MateusAndrade), [twitter](https://twitter.com/Mateus_Andrad_)                           |
+| Samanta Cicilia |  Quality Assurance, Automated Tests, Leadership, Solutions Architecture, DevOps |  [linkedin](https://www.linkedin.com/in/samantacici/), [instagram](https://www.instagram.com/samycici), [medium](https://medium.com/@samantacicilia/), [twitter](https://twitter.com/samantacicilia) |,
 
 ## Uberlândia - MG 
 
