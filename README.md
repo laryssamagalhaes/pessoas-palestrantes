@@ -93,6 +93,12 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 | ---------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Fernando Fabricio dos Santos |  PHP, Laravel, AWS, RabbitMQ, Kafka, Node.js, Javascript, Kanban, IoT |  [linkedin](https://www.linkedin.com/in/ferfabricio/), [github](https://github.com/ferfabricio/), [twitter](https://twitter.com/@ferfabricio) |,
 
+## Porto Alegre - RS 
+
+| Nome           | Áreas de Interesse                                                                          | Redes sociais                                                                                                                                                                                |
+| -------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Marcelo Chaves |  Desenvolvimento de Jogos, C#, Realidade Aumentada, Programação de Rede, Computação Gráfica |  [linkedin](https://linkedin.com/in/marcelochaves95), [github](https://github.com/marcelochaves95), [twitter](https://twitter.com/marcelochaves95), [itch.io](https://marcelochaves.itch.io) |,
+
 ## Recife - PE 
 
 | Nome              | Áreas de Interesse                                                                                                                                                | Redes sociais                                                                                                                                                                                                                                                                                       |
