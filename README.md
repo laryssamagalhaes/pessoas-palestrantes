@@ -97,9 +97,10 @@ Se não existir, crie a pasta com o nome da cidade seguido da sigla do estado, e
 
 ## Porto Alegre - RS 
 
-| Nome           | Áreas de Interesse                                                                          | Redes sociais                                                                                                                                                                                |
-| -------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Marcelo Chaves |  Desenvolvimento de Jogos, C#, Realidade Aumentada, Programação de Rede, Computação Gráfica |  [linkedin](https://linkedin.com/in/marcelochaves95), [github](https://github.com/marcelochaves95), [twitter](https://twitter.com/marcelochaves95), [itch.io](https://marcelochaves.itch.io) |,
+| Nome               | Áreas de Interesse                                                                                                                                                                     | Redes sociais                                                                                                                                                                                |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Marcelo Chaves     |  Desenvolvimento de Jogos, C#, Realidade Aumentada, Programação de Rede, Computação Gráfica                                                                                            |  [linkedin](https://linkedin.com/in/marcelochaves95), [github](https://github.com/marcelochaves95), [twitter](https://twitter.com/marcelochaves95), [itch.io](https://marcelochaves.itch.io) |
+| Thomás Sieczkowski |  OKR, Technology Leadership, Team Development, SaaS Development, Digital Product Strategy, Disruptive Strategy, IoT - Internet of Things, Ruby on Rails, Service Oriented Architecture |  [linkedin](https://www.linkedin.com/in/tsieczkowski/), [github](https://github.com/thomashs), [medium](https://medium.com/@thomashs)                                                        |,
 
 ## Recife - PE 
 
