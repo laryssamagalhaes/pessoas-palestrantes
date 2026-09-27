@@ -24,6 +24,12 @@ Verifique se sua cidade já existe na pasta `./speakers`, se já existir basta c
         "[linkedin](https://www.linkedin.com/in/laryssa-magalhaes/)", // Os links deverão seguir o padrão de markdow: [nome](link)
         "[github](https://github.com/laryssamagalhaes/)",
         "[medium](https://medium.com/@larymagal)"
+    ],
+    "bio": "Engenheira de software com foco em frontend e comunidades de tecnologia.", // Breve apresentação (opcional)
+    "languages": ["Português", "Inglês"], // Idiomas em que palestra (opcional)
+    "availability": ["Remoto", "Presencial"], // Disponibilidade para eventos (opcional)
+    "talks": [ // Palestras já ministradas (opcional)
+        "[Construindo PWAs com React (Slides)](https://speakerdeck.com/...)"
     ]
 }
 ```

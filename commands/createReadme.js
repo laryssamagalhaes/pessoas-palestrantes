@@ -31,6 +31,33 @@ const parseTitle = (title) =>  {
         .join(' ')
 }
 
+const renderSpeakerDetails = (speaker) => {
+    const hasBio = speaker.bio && typeof speaker.bio === 'string' && speaker.bio.trim().length > 0;
+    const hasLanguages = Array.isArray(speaker.languages) && speaker.languages.length > 0;
+    const hasAvailability = Array.isArray(speaker.availability) && speaker.availability.length > 0;
+    const hasTalks = Array.isArray(speaker.talks) && speaker.talks.length > 0;
+
+    if (!hasBio && !hasLanguages && !hasAvailability && !hasTalks) {
+        return '';
+    }
+
+    const lines = [];
+    if (hasBio) {
+        lines.push(`> **Bio:** ${speaker.bio.trim()}  `);
+    }
+    if (hasLanguages) {
+        lines.push(`> **Idiomas:** ${speaker.languages.join(', ')}  `);
+    }
+    if (hasAvailability) {
+        lines.push(`> **Disponibilidade:** ${speaker.availability.join(', ')}  `);
+    }
+    if (hasTalks) {
+        lines.push(`> **Palestras:**  `);
+        speaker.talks.forEach((talk) => lines.push(`> • ${talk.trim()}`));
+    }
+
+    return `\n<details>\n  <summary>🔍 Mais informações sobre <b>${speaker.name}</b></summary>\n  <br />\n\n${lines.join('\n')}\n</details>\n`;
+};
 
 const getSpeakerColumn = (speakers) => _.chain(speakers)
     .reduce((prev, speaker) => {
@@ -46,10 +73,19 @@ const getSpeakerColumn = (speakers) => _.chain(speakers)
     .orderBy('[0]', 'asc')
 
 const mountTableByCity = ([city, speakers]) => {
-    return `\n\n## ${parseTitle(city)} \n\n` + table([ 
+    const sortedSpeakers = _.orderBy(speakers, ['name'], ['asc']);
+
+    const cityTable = `\n\n## ${parseTitle(city)} \n\n` + table([ 
         TABLE_HEADER, 
         ...getSpeakerColumn(speakers) 
-    ])
+    ]);
+
+    const details = sortedSpeakers
+        .map(renderSpeakerDetails)
+        .filter(Boolean)
+        .join('\n');
+
+    return details ? `${cityTable}\n${details}` : cityTable;
 }
 
 const parsedData = cities
