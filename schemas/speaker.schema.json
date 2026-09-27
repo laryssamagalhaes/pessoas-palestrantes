@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/laryssamagalhaes/pessoas-palestrantes/master/schemas/speaker.schema.json",
+  "title": "Perfil de Pessoa Palestrante",
+  "description": "Esquema de dados para o cadastro de palestrantes no repositório pessoas-palestrantes",
+  "type": "object",
+  "required": [
+    "name",
+    "subjects",
+    "socials"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 2,
+      "description": "Nome completo da pessoa palestrante (ex: 'Laryssa Magalhães')"
+    },
+    "subjects": {
+      "type": "array",
+      "description": "Lista de áreas de interesse, tecnologias e temas de palestras",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "socials": {
+      "type": "array",
+      "description": "Lista de links para contato no formato Markdown: [Nome](URL)",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^\\[.+\\]\\(.+\\)$",
+        "description": "Link em formato Markdown (ex: '[linkedin](https://linkedin.com/in/usuario)')"
+      }
+    },
+    "talks": {
+      "type": "array",
+      "description": "Lista de palestras já ministradas (opcional) no formato Markdown: [Título](URL)",
+      "items": {
+        "type": "string",
+        "pattern": "^\\[.+\\]\\(.+\\)$",
+        "description": "Link da palestra (ex: '[Nome da Talk](https://speakerdeck.com/...)')"
+      }
+    }
+  },
+  "additionalProperties": false
+}

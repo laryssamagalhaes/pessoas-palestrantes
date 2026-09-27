@@ -1,0 +1,10 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "speakers/**/*.json"
+      ],
+      "url": "./schemas/speaker.schema.json"
+    }
+  ]
+}
