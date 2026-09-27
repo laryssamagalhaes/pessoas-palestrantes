@@ -1,7 +1,7 @@
 {
   "name": "pessoas-palestrantes",
   "version": "1.0.0",
-  "description": "Bem vind@ :)",
+  "description": "Boas-vindas! :)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,7 +1,7 @@
 
 # Pessoas palestrantes
 
-Bem vind@ :)
+Boas-vindas! :)
 
 Esse repositório foi criado no intuito de ajudar eventos a encontrarem pessoas para palestrarem.
 
