@@ -1,33 +1,44 @@
 name: CI
 
 on:
-   push:
+  push:
     branches:
-    - master
+      - master
+
+permissions:
+  contents: write
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    
+
     steps:
-    - uses: actions/checkout@v1
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '10.x'
-    - name: installing dependencies
-      run: npm install
-    - name: generate Readme
-      run: node commands/createReadme.js
-    - name: set user email
-      run: git config user.email "laryssamagal@gmail.com"
-    - name: set user name
-      run: git config user.name "laryssamagalhaes"
-    - name: add files changes
-      run: git add .
-    - name: saving new readme
-      run: git commit -m 'feat(Readme) add new speaker :)'
-    - name: push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate Readme
+        run: node commands/createReadme.js
+
+      - name: Configure Git User
+        run: |
+          git config user.email "laryssamagal@gmail.com"
+          git config user.name "laryssamagalhaes"
+
+      - name: Commit Readme changes
+        run: |
+          git add README.md
+          git diff --staged --quiet || git commit -m 'feat(Readme) add new speaker :)'
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
