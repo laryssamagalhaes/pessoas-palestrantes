@@ -1,0 +1,25 @@
+name: Check Broken Links
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Executa todo dia 1º de cada mês às 12:00 UTC
+    - cron: '0 12 1 * *'
+
+jobs:
+  check-links:
+    name: Verify Speaker Links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run broken link check
+        run: npm run check:links
+        continue-on-error: true
