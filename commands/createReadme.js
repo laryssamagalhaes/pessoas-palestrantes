@@ -5,7 +5,7 @@ const titleize = require('titleize');
 
 const cities = fs.readdirSync('./speakers');
 const BASE_PATH = './speakers/'
-const TABLE_HEADER = ['Nome', 'Áreas de Interesse', 'Redes sociais']
+const TABLE_HEADER = ['Nome', 'Áreas de Interesse', 'Redes sociais', 'Palestras']
 
 const getSpeakers = (speakersDefinitions, city) => speakersDefinitions.map((speaker) => {
     return JSON.parse(fs.readFileSync(`${BASE_PATH}${city}/${speaker}`, 'UTF-8'))
@@ -34,12 +34,17 @@ const parseTitle = (title) =>  {
 
 const getSpeakerColumn = (speakers) => _.chain(speakers)
     .reduce((prev, speaker) => {
+        const talks = speaker.talks && speaker.talks.length > 0
+            ? addSpaceLeft(speaker.talks)
+            : [' -']
+
         return [
             ...prev,
             [
                 speaker.name,
                 addSpaceLeft(speaker.subjects),
-                addSpaceLeft(speaker.socials)
+                addSpaceLeft(speaker.socials),
+                talks
             ]
         ]
     }, [])
