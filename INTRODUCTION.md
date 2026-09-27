@@ -9,6 +9,13 @@ Você que gosta ou tem vontade de palestrar, abra um PR seguindo as orientaçõe
 
 ### Abrindo um PR
 
+Você pode cadastrar seu perfil de forma interativa executando no terminal:
+```bash
+npm run add-speaker
+```
+
+Ou criar manualmente seguindo as orientações abaixo:
+
 Verifique se sua cidade já existe na pasta `./speakers`, se já existir basta criar um arquivo `.json` com seu nome-sobrenome.json seguindo o seguinte padrão:
 
 ```js
